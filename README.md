@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vikas sharma. A DevOps Lead at @Paytm, Banglore.
+I'm Vikas sharma. A Senior Software Engineer at @Walmart, Banglore.
 
 
 ---
